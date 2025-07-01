@@ -1,0 +1,28 @@
+npm start -- --reset-cache
+
+npx expo start --tunnel
+
+For APK
+    npm install -g eas-cli
+    eas login
+    eas build -p android --profile production
+
+    This will build AAB file for production
+
+For APK like dev build: In your production profile under the build section, you can add the "android" field and set the "buildType" to "apk".
+        "production": {
+            "autoIncrement": true,
+            "android": {
+                "buildType": "apk"
+      }
+    }
+
+
+
+
+
+
+
+
+
+
