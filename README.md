@@ -1,8 +1,10 @@
 # README
+This is PetMets Mobile App based on React Native, it will show content from petmets.in
+
 
 Last Updated (Change Log):
 
-    01/07/2025
+    01/07/2025 - Logo Icon Splash Screen updated. 
 
 ## To update the `source` URI in the `index.tsx` file:
 
