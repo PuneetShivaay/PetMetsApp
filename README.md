@@ -20,3 +20,6 @@ npm install expo-router
 
 npm install -g eas-cli
 eas build -p android
+
+
+![image](https://github.com/user-attachments/assets/8723b343-e795-4056-aa04-80323cc3d65e)
