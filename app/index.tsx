@@ -6,7 +6,7 @@ export default function Index() {
   return (
     <SafeAreaView style={{ flex: 1, paddingTop: StatusBar.currentHeight }}>
       <WebView
-        source={{ uri: 'https://petmets.in/' }}
+        source={{ uri: 'https://studio--petmets-w801k.us-central1.hosted.app/' }}
         style={{ flex: 1 }}
       />
     </SafeAreaView>

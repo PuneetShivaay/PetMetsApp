@@ -1,6 +1,7 @@
 # README
 This is PetMets Mobile App based on React Native, it will show content from petmets.in
 
+It is an APK Build
 
 Last Updated (Change Log):
 
